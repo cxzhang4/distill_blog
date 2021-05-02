@@ -1,7 +1,7 @@
 [
   {
     "path": "posts/2021-05-01-carson-zhang-style/",
-    "title": "Carson Zhang - Style",
+    "title": "Style",
     "description": "In the style of \"Style\" by Taylor Swift.",
     "author": [
       {
@@ -13,8 +13,8 @@
     "categories": [],
     "contents": "\r\nMidnight, your code is due, you don’t know what to write\r\nLong lines, at office hours, you’re running out of time\r\nWhat will you do, oh,\r\nThere’s no time left just commit something to review\r\n(To review)\r\nWell I could just tell you to code but I\r\nKnow exactly where that goes and I\r\nWant you to think about design\r\nYou got that one main function that’s 500 lines\r\nAnd I got that modular, encapsulated design\r\nBut when you know people will read the code that you write\r\nRemember to use good style, remember to use good style\r\nYou started way too late so your code doesn’t work\r\nWithout any tests, is it correct? You’re just not sure\r\nAnd when you write code you don’t think about your design\r\nRemember to use good style, remember to use good style\r\nSo it goes, he says he’ll write tests but you know he won’t\r\nVariables named “flag” or “temp”, you don’t know what he wrote (Hm yeah)\r\nIt looks like this code was written by someone from Michigan (from Michigan)1\r\nWell I might be too hard on you ’cause I\r\nUsed to do the same things and I\r\nI said I’ve been there too a few times\r\n’Cause you got that one main function that’s 500 lines\r\nAnd I got that modular, encapsulated design\r\nBut when you know people will read the code that you write\r\nRemember to use good style, remember to use good style\r\nYou started way too late so your code doesn’t work\r\nWithout any tests, is it correct? You’re just not sure\r\nAnd when you write code you don’t think about your design\r\nRemember to use good style, remember to use good style\r\nWrite good code\r\nJust write good code\r\nYeah just write good code, oh\r\nYou got that one main function that’s 500 lines\r\nAnd I got that modular, encapsulated design\r\nBut when you know people will read the code that you write\r\nRemember to use good style, remember to use good style\r\n\r\nFeel free to replace this with whatever rival group or institution you prefer. Illinois CS likes to poke a little fun at Michigan.↩\r\n",
     "preview": {},
-    "last_modified": "2021-05-02T00:26:56-05:00",
-    "input_file": {}
+    "last_modified": "2021-05-02T15:52:55-05:00",
+    "input_file": "carson-zhang-style.utf8.md"
   },
   {
     "path": "posts/2021-05-01-welcome/",

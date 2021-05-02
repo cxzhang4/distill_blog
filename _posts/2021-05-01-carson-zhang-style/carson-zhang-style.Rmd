@@ -1,5 +1,5 @@
 ---
-title: "Carson Zhang - Style"
+title: "Style"
 description: |
   In the style of "Style" by Taylor Swift.
 author:
