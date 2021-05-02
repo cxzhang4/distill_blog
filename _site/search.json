@@ -2,18 +2,18 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "About this blog",
-      "description": "Some additional details about the blog",
+      "title": "About me",
+      "description": "Some additional details about me",
       "author": [],
       "contents": "\nCurrently, I work as a Customer Information Researcher at Grainger.\nI graduated with a B.S. in Statistics and Computer Science from UIUC.\n\n\n\n",
-      "last_modified": "2021-05-01T23:53:27-05:00"
+      "last_modified": "2021-05-02T00:03:13-05:00"
     },
     {
       "path": "index.html",
-      "title": "My Blog",
+      "title": "Carson Zhang",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-05-01T23:53:29-05:00"
+      "last_modified": "2021-05-02T00:03:14-05:00"
     }
   ],
   "collections": ["posts/posts.json"]
