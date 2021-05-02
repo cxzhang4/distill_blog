@@ -1,8 +1,9 @@
 name: "distill_blog"
 title: "My Blog"
 description: |
-  My Blog
+  a blog
 output_dir: "_site"
+base_url: https://www.carsonzhang.com
 navbar:
   right:
     - text: "Home"
