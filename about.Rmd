@@ -8,4 +8,6 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-I graduated with a B.S. in Statistics and Computer Science from UIUC. Currently, I work as a Customer Information Researcher at Grainger.
+Currently, I work as a Customer Information Researcher at Grainger.  
+
+I graduated with a B.S. in Statistics and Computer Science from UIUC.  

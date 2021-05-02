@@ -1,0 +1,63 @@
+---
+title: "Carson Zhang - Style"
+description: |
+  In the style of "Style" by Taylor Swift.
+author:
+  - name: Carson Zhang
+    url: https://www.carsonzhang.com
+date: 05-01-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Midnight, your code is due, you don't know what to write  
+Long lines, at office hours, you're running out of time  
+What will you do, oh,  
+There’s no time left just commit something to review  
+(To review)  
+Well I could just tell you to code but I  
+Know exactly where that goes and I  
+Want you to think about design  
+
+You got that one main function that's 500 lines  
+And I got that modular, encapsulated design  
+But when you know people will read the code that you write  
+Remember to use good style, remember to use good style  
+ 
+You started way too late so your code doesn’t work  
+Without any tests, is it correct? You’re just not sure  
+And when you write code you don't think about your design  
+Remember to use good style, remember to use good style  
+
+So it goes, he says he'll write tests but you know he won't  
+Variables named "flag" or "temp", you don't know what he wrote (Hm yeah)  
+It looks like this code was written by someone from Michigan (from Michigan)^[Feel free to replace this with whatever rival group or institution you prefer. Illinois CS likes to poke a little fun at Michigan.]  
+
+Well I might be too hard on you 'cause I  
+Used to do the same things and I  
+I said I've been there too a few times  
+
+'Cause you got that one main function that's 500 lines  
+And I got that modular, encapsulated design  
+But when you know people will read the code that you write  
+Remember to use good style, remember to use good style  
+
+You started way too late so your code doesn’t work  
+Without any tests, is it correct? You’re just not sure  
+And when you write code you don't think about your design  
+Remember to use good style, remember to use good style  
+
+Write good code  
+Just write good code  
+Yeah just write good code, oh  
+
+You got that one main function that's 500 lines  
+And I got that modular, encapsulated design  
+But when you know people will read the code that you write  
+Remember to use good style, remember to use good style  
