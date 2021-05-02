@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2683371650",
+    "hash" : "999951707",
     "id" : "839A05A7",
-    "lastKnownWriteTime" : 1619927494,
-    "last_content_update" : 1619927494836,
+    "lastKnownWriteTime" : 1619927986,
+    "last_content_update" : 1619927986467,
     "path" : "~/distill_blog/about.Rmd",
     "project_path" : "about.Rmd",
     "properties" : {
-        "cursorPosition" : "10,4",
+        "cursorPosition" : "10,136",
         "scrollLine" : "0"
     },
     "read_only" : false,
