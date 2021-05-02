@@ -1,10 +1,10 @@
 ---
 title: "Welcome"
 description: |
-  A short description of the post.
+  About this website
 author:
-  - name: Nora Jones
-    url: https://example.com/norajones
+  - name: Carson Zhang
+    url: https://www.carsonzhang.com
 date: 05-01-2021
 output:
   distill::distill_article:
@@ -16,8 +16,5 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Distill is a publication format for scientific and technical writing, native to the web.
-
-Learn more about using Distill at <https://rstudio.github.io/distill>.
-
+Everything on this website is a living document. I'll probably publish some stuff I'm not super proud of, just for the sake of getting it out there. However, I'm always open to constructive feedback.
 

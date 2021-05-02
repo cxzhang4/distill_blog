@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "path": "posts/2021-05-01-welcome/",
+    "title": "Welcome",
+    "description": "About this website",
+    "author": [
+      {
+        "name": "Carson Zhang",
+        "url": "https://www.carsonzhang.com"
+      }
+    ],
+    "date": "2021-05-01",
+    "categories": [],
+    "contents": "\nEverything on this website is a living document. I’ll probably publish some stuff I’m not super proud of, just for the sake of getting it out there. However, I’m always open to constructive feedback.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-05-01T23:33:11-05:00",
+    "input_file": {}
+  }
+]
