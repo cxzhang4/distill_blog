@@ -6,14 +6,14 @@
       "description": "Some additional details about me",
       "author": [],
       "contents": "\r\nCurrently, I work as a Customer Information Researcher at Grainger.\r\nI graduated from UIUC with a B.S. in Statistics and Computer Science.\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-05-02T15:53:36-05:00"
+      "last_modified": "2021-05-02T20:48:11-05:00"
     },
     {
       "path": "index.html",
       "title": "Carson Zhang",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-05-02T15:53:37-05:00"
+      "last_modified": "2021-05-02T20:48:11-05:00"
     }
   ],
   "collections": ["posts/posts.json"]

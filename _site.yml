@@ -1,5 +1,6 @@
 name: "distill_blog"
-title: "My Blog"
+title: "Carson Zhang"
+theme: first.css
 description: |
   a blog
 output_dir: "_site"

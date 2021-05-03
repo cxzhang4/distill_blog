@@ -60,4 +60,4 @@ Yeah just write good code, oh
 You got that one main function that's 500 lines  
 And I got that modular, encapsulated design  
 But when you know people will read the code that you write  
-Remember to use good style, remember to use good style  
+Remember to use good style, remember to use good style.
